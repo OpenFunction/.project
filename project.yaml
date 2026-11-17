@@ -27,7 +27,7 @@ repositories:
 
 website: "https://openfunction.dev"
 
-artwork: "https://landscape.cncf.io/logos/openfunction.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/openfunction"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
